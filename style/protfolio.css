@@ -82,6 +82,10 @@ width: 500px;
    max-width: 500px;
 }
 /* main section style*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /*about section style*/
 .about{
@@ -100,4 +104,15 @@ font-weight: 700;
     color: #757575;
 text-align: center;
 font-size: 18px;
+}
+.about-info-con{
+    display: flex;
+    justify-content: space-around;
+}
+.class-int{
+    text-align: center;
+}
+
+.sec-des{
+    margin-bottom: 30px;
 }
