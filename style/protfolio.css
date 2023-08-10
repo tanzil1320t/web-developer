@@ -86,6 +86,9 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+main-section{
+    margin-top: 130px;
+}
 
 /*about section style*/
 .about{
@@ -115,4 +118,25 @@ font-size: 18px;
 
 .sec-des{
     margin-bottom: 30px;
+}
+.sec-title{
+    margin-top: 130px;
+}
+.skills-container{
+    display: flex;
+}
+.skill{
+    padding: 30px;
+    
+    border-radius: 10px;
+    margin: 5px;
+background: #FFF;
+box-shadow: 0px 6px 50px 0px rgba(9, 109, 127, 0.06);
+}
+/*resume section style*/
+
+.resume-culum-title{
+    color:  #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
