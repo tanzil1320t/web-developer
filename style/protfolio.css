@@ -181,5 +181,18 @@ footer{
 
     background-color: #FFF8F3;
     padding: 130px,230px;
+    gap: 100px;
    
+}
+.section-colum{
+    width: 50%;
+}
+.contact, input,textarea {
+display: block;
+margin-bottom: 25px;
+padding: 18px 25px;
+color: #070000f8;
+border-radius: 5px;
+
+border: 0px;
 }
